@@ -2,8 +2,7 @@
 
  Test_Id  |   Desciption         |  Expected_Input | Expected_output  | Actual_Output | End_Result |
 | -------- |   --------------     |  -------------- | ---------------  | ------------- | -------------|
-| HLT_1     | Check of the empty workspace        |    None         |    Empty workspace             |        Success       |    Pass          |
-|  HLT_2     | Ability to rotate | Arrow keys   |Rotations      | Success       |Pass        |
-|HLT_3    |Ability to move in specific direction  | Arrow keys  | Move to that direction    |Succes      |Pass  |
-|HLT_4    |Ability to pause the game             |Keyboard key  |Resume the game   | Success | Pass  |
-|HLT_5  | Ability to restart the game   | Keyboard Key  | Restart the game  | Success |  Pass | 
+| HLT_1     | Check if the temperature shown        |   Temperature show     |    Temperature show            |        Success       |    Pass          |
+|  HLT_2     | Ability to increase Temperature | Raise Temperature   |Temperature Raised     | Success       |Pass        |
+|HLT_3    |Ability to set timer  | Set Timer  | Timer Set   |Succes      |Pass  |
+|HLT_4    |Check if the time end LED glow            | Time end  | LED glow   | Success | Pass  | 
